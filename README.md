@@ -8,8 +8,7 @@ This Is Facebook Cloning And Useful Tools Purely Codded By Muhammad Hamza.
 4-git clone https://github.com/Hamzahash/hpro
 5-cd hpro
 6-python2 hop.py
-7-Username:hamza
-8-Password:1626
+
 ------------------------------------------------------------------------------------------
 Usage :-
 1- After Installing The Above Commands Login Your Account
@@ -18,8 +17,6 @@ Usage :-
 -------------------------------------------------------------------------------------------
 Other Important Tools Will Be Installed Automatically Through Script.So Don't Worry.
 If You Need Any Help You Can Contact Me On Facebook Or WhatsApp.
-Facebook:www.facebook.com/muhammad.hamza1626
-WhatsApp:https://wa.me/+923097992202
 -------------------------------------------------------------------------------------------
 This Tools Is Workable In These Platforms Or OS
 1-Linux(PC)
