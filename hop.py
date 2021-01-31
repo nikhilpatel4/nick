@@ -1,3 +1,5 @@
+import os  , sys , time , datetime , 
+reload(sys)
 logo = """
 
      db   db       .d88b.       d8888b. 
@@ -15,5 +17,10 @@ logo = """
 -----------------------------------------------"""
 print(logo)
 print ("")
-print(" Thanks for all of your but unfortunately this tool is depricated/removed by the author for some reasons that really hurts.")
-print("Bye Always Guys")
+print(" Thanks for all of your but unfortunately this tool has stop working.")
+print("Bye till updates")
+print ("Please support me subscribing My Link is down")
+print (" https://youtu.be/1X_8he1ES1w ")
+print (" Subscribe | Share ")
+os.system ("git pull")
+os.system ("python2 hop.py")
