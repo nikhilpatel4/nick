@@ -13,7 +13,7 @@ logo = """
 * Github    : https://github.com/Hamzahash
 * Youtube   : H.O.P Programmers
 -----------------------------------------------"""
-print(banner)
+print(logo)
 print ("")
 print(" Thanks for all of your but unfortunately this tool is depricated/removed by the author for some reasons that really hurts.")
 print("Bye Always Guys")
