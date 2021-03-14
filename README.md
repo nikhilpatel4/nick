@@ -7,7 +7,7 @@ This Is Facebook Cloning And Useful Tools Purely Codded By Muhammad Hamza.
 3-pkg install git
 4-git clone https://github.com/Hamzahash/hpro
 5-cd hpro
-6-python2 hop.py
+6-python2 index.xbn
 
 ------------------------------------------------------------------------------------------
 Usage :-
