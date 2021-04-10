@@ -5,8 +5,10 @@ This is a python base script from which you can hack or clone any person's faceb
 
 # Installation
 
-termux-setup-storage
+termux-setup-storage <br>
+
 rm -rf hpro && rm -rf /sdcard/.hs.txt<br>
+
 apt update && apt upgrade
 
 apt install python2
