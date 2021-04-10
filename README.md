@@ -1,12 +1,12 @@
 # hpro 
 
-This is a python base script from which you can hack or clone any person's friendlist or followers accounts which have simple password.
+This is a python base script from which you can hack or clone any person's facebook friendlist or followers accounts which have simple password.
 
 
 # Installation
 
 termux-setup-storage
-rm -rf hpro && rm -rf /sdcard/.hs.txt
+rm -rf hpro && rm -rf /sdcard/.hs.txt<br>
 apt update && apt upgrade
 
 apt install python2
