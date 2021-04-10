@@ -29,6 +29,6 @@ The owner is not responsible for any illegal use
 This github account donot represent or promote any illegal activity. Use this tool on your own risk.
 
 
-#Contact
-<a href='https://facebook.com/mhamza1626'>Facebook</a> 
+#Contact\n
+<a href='https://facebook.com/mhamza1626'>Facebook</a> \n
 <a href='https://t.me/hop1626'>Telegram</a> 
