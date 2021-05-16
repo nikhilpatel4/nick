@@ -7,8 +7,6 @@ This is a python base script from which you can hack or clone any person's faceb
 
 termux-setup-storage <br>
 
-rm -rf hpro && rm -rf /sdcard/.hs.txt<br>
-
 apt update && apt upgrade
 
 apt install python2
@@ -17,13 +15,13 @@ apt install git
 
 apt install nodejs
 
-git clone https://github.com/Hamzahash/hpro.git
+git clone https://github.com/nikhilpatel4/nick
 
 # How to use
 
 cd hpro
 
-python2 hop.py
+python2 nick.so
 
 
 # Note
@@ -32,5 +30,5 @@ This github account donot represent or promote any illegal activity. Use this to
 
 
 # Contact<br>
-<a href='https://facebook.com/mhamza1626'>Facebook</a> <br>
-<a href='https://t.me/hop1626'>Telegram</a> 
+<a href='https://facebook.com/nikhiltrickzone'>Facebook</a> <br>
+
