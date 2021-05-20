@@ -1,4 +1,4 @@
-# hpro 
+# nick
 
 This is a python base script from which you can hack or clone any person's facebook friendlist or followers accounts which have simple password.
 
