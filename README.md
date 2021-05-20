@@ -19,7 +19,7 @@ git clone https://github.com/nikhilpatel4/nick
 
 # How to use
 
-cd hpro
+cd nick
 
 python2 nick.so
 
