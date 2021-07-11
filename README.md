@@ -15,6 +15,10 @@ apt install git
 
 apt install nodejs
 
+pip2 install mechanize
+
+pip2 install requests
+
 git clone https://github.com/nikhilpatel4/nick
 
 # How to use
