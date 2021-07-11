@@ -34,5 +34,13 @@ This github account donot represent or promote any illegal activity. Use this to
 
 
 # Contact<br>
+<a href='https://instagram.com/nikhilp4tel'>Instagram</a> <br>
+
+# Contact<br>
 <a href='https://facebook.com/nikhiltrickzone'>Facebook</a> <br>
+
+# Contact<br>
+<a href='https://youtube.com/NikhilPatel1India'>YouTube</a> <br>
+
+
 
